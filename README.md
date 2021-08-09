@@ -142,7 +142,7 @@ data = {
                 {"lDev": "0x0000"},
                 {"lDev": "0x0001"},
                 {"lDev": "0x0004"}
-            ],
+            ]
         }
 
 session.set_hdw_node(hbn_id, host_node_id, **data)
@@ -157,7 +157,7 @@ data = {
                 {"lDev": "0x0005"},
                 {"lDev": "0x0006"},
                 {"lDev": "0x0007"}
-            ],
+            ]
         }
 
 session.create_hdw_node(name, host_node_id, **data)
