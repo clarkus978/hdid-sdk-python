@@ -176,5 +176,4 @@ session.create_hdw_node(name, host_node_id, **data)
 ## Files
 
 * hdid/ -- Contains module.
-* CHANGES.rst -- Module change log.
 * README.md -- This document.
