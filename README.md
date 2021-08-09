@@ -67,7 +67,7 @@ jsonstring = json.dumps(hdw_nodes, indent=2)
 print(jsonstring)
 ```
 
-Sample Output
+Sample Output:
 ```shell
 {
   [
@@ -114,6 +114,7 @@ jsonstring = json.dumps(hdw_node, indent=2)
 print(jsonstring)
 ```
 
+Sample Output:
 ```shell
 {
   "id": "HBN_0A@00-203944-B73B4A-4B17A2-51C703[0-1-A4]",
